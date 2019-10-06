@@ -388,7 +388,7 @@ Place your images in the `/assets/images/` folder and add the following YAML Fro
 
 ```yaml
 header:
-  image: /assets/images/image-filename.jpg
+  image: images
 ```
 
 For externally hosted images include the full image path instead of just the filename:
@@ -410,7 +410,7 @@ To include a caption or attribution for the image:
 
 ```yaml
 header:
-  image: /assets/images/unsplash-image-1.jpg
+  image: images
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ```
 
@@ -490,9 +490,9 @@ header:
 Multiple call to action button links can be assigned like this:
 
 ```yaml
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: images
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: images
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Foo Button"

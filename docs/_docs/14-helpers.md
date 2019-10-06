@@ -86,17 +86,17 @@ To place a gallery add the necessary YAML Front Matter.
 
 ```yaml
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - url: images
+    image_path: images
+    alt: images
     title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - url: images
+    image_path: images
+    alt: images
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: images
+    image_path: images
+    alt: images
     title: "Image 3 title caption"
 ```
 

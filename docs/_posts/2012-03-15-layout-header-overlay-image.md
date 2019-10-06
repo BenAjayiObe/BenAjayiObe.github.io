@@ -31,7 +31,7 @@ You can use it by specifying the opacity (between 0 and 1) of a black overlay li
 ```yaml
 excerpt: "This post should [...]"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: images
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
