@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Data, Data Everywhere, Nor Any Drop To Think"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Benjamin Ajayi-Obe"
+description              : "Online Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,8 +83,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+twitter: "https://twitter.com/BOA4"
+  username               : "Ben Ajayi-Obe"
 facebook:
   username               :
   app_id                 :
@@ -111,7 +111,7 @@ author:
   avatar           : "assets/images/ben_ajayi_obe_head.jpg"
   bio              : "I am a data scientist interested in building products that make an impact. I'm also a National Council Member of the MS Society and enjoy taking on physical challenges to support the charity."
   location         : "London"
-  email            : "ben"
+  email            : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
